@@ -1,0 +1,28 @@
+{
+  "name": "Anitele Plugin",
+  "short_name": "Anitele",
+  "description": "あにてれをもうちょっと見やすくするやつ",
+  "author": "gecko655",
+  "manifest_version": 2,
+  "offline_enabled": true,
+
+  "version": "1.0.0.0",
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "jquery-3.2.1.min.js",
+      "background.js"
+    ]
+  },
+  "content_scripts": [{
+    "matches": ["https://ch.ani.tv/episodes/*"],
+    "js": [
+      "jquery-3.2.1.min.js",
+      "content.js"
+    ]
+  }],
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ]
+}
