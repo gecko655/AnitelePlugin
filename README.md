@@ -4,13 +4,13 @@
 
 
 ### 使い方
-![](https://raw.githubusercontent.com/gecko655/aniteleplugin/images/1.png)
+![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/1.png)
 
-![](https://raw.githubusercontent.com/gecko655/aniteleplugin/images/2.png)
+![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/2.png)
 
 ↓
 
-![](https://raw.githubusercontent.com/gecko655/aniteleplugin/images/3.png)
+![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/3.png)
 
 
 ### お問い合わせ
