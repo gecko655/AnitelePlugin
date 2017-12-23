@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(function(){
   chrome.contextMenus.create({
     id: "Anitele plugin", 
-    title: "あにてれの左の邪魔なバーを消す",
+    title: "あにてれの左の邪魔なバーを表示する",
     documentUrlPatterns: ["https://ch.ani.tv/episodes/*"]
     }
   );

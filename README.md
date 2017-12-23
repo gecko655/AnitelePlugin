@@ -4,14 +4,11 @@
 
 
 ### 使い方
-![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/1.png)
+インスコするだけ
+![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/4.jpg)
 
-![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/2.jpg)
-
-↓
-
-![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/3.jpg)
-
+どうしても左の邪魔なバーを表示したくなったらウィンドウ内右クリック
+![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/5.png)
 
 ### お問い合わせ
 
