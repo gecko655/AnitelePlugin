@@ -5,9 +5,11 @@
 
 ### 使い方
 インスコするだけ
+
 ![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/4.jpg)
 
 どうしても左の邪魔なバーを表示したくなったらウィンドウ内右クリック
+
 ![](https://raw.githubusercontent.com/gecko655/AnitelePlugin/master/images/5.png)
 
 ### お問い合わせ
